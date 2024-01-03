@@ -1,7 +1,9 @@
 # TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction
 Code for [TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction](https://dl.acm.org/doi/pdf/10.1145/3638773)
-<img width="502" alt="image" src="https://github.com/bigfeetsmalltone/TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction/assets/30223491/5ca61cdf-ff53-4777-8b42-7b7892156c15">
-<img width="287" alt="image" src="https://github.com/bigfeetsmalltone/TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction/assets/30223491/91400f09-165b-426b-9d4f-a88d29f43763">
+<img width="506" alt="image" src="https://github.com/bigfeetsmalltone/TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction/assets/30223491/4c9c5a57-a1dc-49ea-a810-21fef71abe8f">
+<img width="495" alt="image" src="https://github.com/bigfeetsmalltone/TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Prediction/assets/30223491/82a4287d-347b-4ba3-a766-923679a0b138">
+
+## Environment
 
 ## Training
 
