@@ -12,18 +12,29 @@ Code for [TinyPredNet-A-Lightweight-Framework-for-Satellite-Image-Sequence-Predi
 If you are interested in our repository or our paper, please cite the following papers:
 
 ```
-@article{10.1145/3638773,
-author = {Dai, Kuai and Li, Xutao and Lin, Huiwei and Jiang, Yin and Chen, Xunlai and Ye, Yunming and Xian, Di},
-title = {TinyPredNet: A Lightweight Framework for Satellite Image Sequence Prediction},
-year = {2023},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {1551-6857},
-url = {https://doi.org/10.1145/3638773},
-doi = {10.1145/3638773},
-note = {Just Accepted},
-journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
-month = {dec},
-keywords = {Interpretability, Deep Learning, Satellite Image Sequence Prediction, Lightweight}
+@article{dai2023tinyprednet,
+  title={TinyPredNet: A Lightweight Framework for Satellite Image Sequence Prediction},
+  author={Dai, Kuai and Li, Xutao and Lin, Huiwei and Jiang, Yin and Chen, Xunlai and Ye, Yunming and Xian, Di},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+
+@article{dai2023learning,
+  title={Learning Spatial-Temporal Consistency for Satellite Image Sequence Prediction},
+  author={Dai, Kuai and Li, Xutao and Ma, Chi and Lu, Shenyuan and Ye, Yunming and Xian, Di and Tian, Lin and Qin, Danyu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
+}
+
+@article{dai2022mstcgan,
+  title={MSTCGAN: Multiscale time conditional generative adversarial network for long-term satellite image sequence prediction},
+  author={Dai, Kuai and Li, Xutao and Ye, Yunming and Feng, Shanshan and Qin, Danyu and Ye, Rui},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
+  year={2022},
+  publisher={IEEE}
 }
 ```
